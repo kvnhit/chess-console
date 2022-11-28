@@ -1,4 +1,6 @@
-﻿namespace xadrez_console
+﻿using Tabuleiro;
+
+namespace xadrez_console
 {
     internal class Program
     {
